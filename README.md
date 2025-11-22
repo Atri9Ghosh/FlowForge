@@ -2,7 +2,8 @@
 
 A full-stack web application built with the MERN stack that allows users to create automated workflows connecting triggers and actions.
 
-![FlowForge Dashboard](https://placehold.co/800x400?text=FlowForge+Dashboard)
+![FlowForge Dashboard](<img width="1919" height="959" alt="Screenshot 2025-11-16 011805" src="https://github.com/user-attachments/assets/91f1a0a9-6236-40f4-a8b2-d3cd29ef0e62" />
+)
 
 ## 🌟 Features
 
